@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-        strings: ["Fique em Casa", "Compre em Casa", "Em Frente", "Fazer o Bem", "Lojas Colombo"],
+        strings: ["Fique em Casa", "Compre sem sair de Casa", "Fazer o Bem", "Lojas Colombo"],
       typeSpeed: 100,
       loop: true,
     });
